@@ -1,8 +1,8 @@
-# Nombre de la aplicación
+# MyFinance
 
-Reemplace este texto con una descripción de su aplicación.
+aplicación diseñada para ayudar a gestionar las finanzas personales de manera eficiente. Con esta herramienta, podrás registrar ingresos y gastos, organizar tus transacciones por categorías y visualizar tu situación financiera en gráficos detallados. Mantén el control de tu dinero, identifica patrones de consumo y toma mejores decisiones financieras con facilidad.
 
-Author: Nombre del estudiante
+Author: Andres Felipe Cristancho Camacho
 
 ## Referencias
 
