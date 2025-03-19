@@ -1,6 +1,6 @@
 # MyFinance
 
-aplicación diseñada para ayudar a gestionar las finanzas personales de manera eficiente. Con esta herramienta, podrás registrar ingresos y gastos, organizar tus transacciones por categorías y visualizar tu situación financiera en gráficos detallados. Mantén el control de tu dinero, identifica patrones de consumo y toma mejores decisiones financieras con facilidad.
+An application designed to help you manage your personal finances efficiently. With this tool, you can record income and expenses, organize your transactions by category, and view your financial situation in detailed graphs. Keep track of your money, identify spending patterns, and make better financial decisions with ease.
 
 Author: Andres Felipe Cristancho Camacho
 
