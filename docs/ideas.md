@@ -6,7 +6,9 @@ An application designed to help you manage your personal finances efficiently. W
 
 Aplicaciones similares:
 
--gestor de gastos-finanzas
--Wallet: finanzas personales 
--Registro contable 
+-gestor de gastos-finanzas - https://play.google.com/store/apps/details?id=ru.innim.my_finance&hl=es_CO&pli=1
+
+-Wallet: finanzas personales - https://play.google.com/store/apps/details?id=com.droid4you.application.wallet&hl=es_CO
+
+-Registro contable - https://play.google.com/store/apps/details?id=com.realbyteapps.moneymanagerfree&hl=es_CO
 
