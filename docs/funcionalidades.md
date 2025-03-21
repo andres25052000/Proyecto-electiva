@@ -12,7 +12,7 @@ La siguientes es una lista de las funcionalidades disponibles para el usuario de
    
    Historial de transacciones: Permite ver los movimientos financieros organizados por fecha.
 
-2. Funciones Intermedias:
+2. Funciones Avanzadas:
   
    Gráficos y estadísticas: Visualización de los gastos por categorías y evolución financiera a lo largo del tiempo.
    
