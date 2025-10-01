@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#D32F2F"
+        android:gravity="center"
+        android:text="Movimientos"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+
+        <TextView
+            android:id="@+id/tvMovimiento1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Valor: $100 - Categoría: Comida - Fecha: 30/09/2025"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:layout_marginBottom="10dp"/>
+
+    </LinearLayout>
+</LinearLayout>
